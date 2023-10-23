@@ -1,9 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react-css
+J'ai utilisé le SASS pour styliser la carte car je trouvais plus intuitive la méthode.
+Elle permet de réutiliser la syntaxe CSS ce qui rend plus facile le code car nous avons déjà pratiqué CSS

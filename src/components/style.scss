@@ -1,0 +1,32 @@
+$fontstack: Helvetica, sans-serif;
+$primarycolor: BBC7CE;
+$secondarycolor: #c4b7cb;
+img {
+  width: 100%;
+  height: auto;
+}
+.container {
+  border: solid;
+  border-color: white;
+  margin: 30%;
+  margin-right: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-family: $fontstack;
+  background-color: $secondarycolor;
+  color: black;
+}
+
+.buttons {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
